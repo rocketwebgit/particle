@@ -5,12 +5,12 @@ description: A blog about lorem ipsum dolor sit amet
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
+username: Vladimir Shipovnikov
+user_description: I'm an enthusiastic software developer, currently specializing in Web Development. I have always felt confident in my ability to do things the right way, quality assured. I've always been a believer in that those who do what they love, are the most successful of the bunch - any way you look at it.
+user_title: Javascript Developer
+email: vladimirshipovnikov@outlook.com
 twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
+github_username:  vladwebgit
 gplus_username:  lorem_ipsum
 
 # Google-analytics
